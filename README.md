@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+this is Jayden I'm in Hanghae99🌱 now 
+
+I'm Backend programmer
+I was Block chain bdm 
+
+✨소개✨ https://bit.ly/3DBVdye
+✨블로그✨ https://bit.ly/3Ylhetf
+✨GitHub✨ https://bit.ly/3RqbJY9
+
+
 <!--
 **jaehunju1996/jaehunju1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
