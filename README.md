@@ -2,7 +2,7 @@
 
 this is Jayden I'm in Hanghae99🌱 now 
 
-I'm Backend programmer
+I'm Node.js(JavaScript) Backend programmer
 
 ✨소개✨ https://bit.ly/3DBVdye
 ✨블로그✨ https://bit.ly/3Ylhetf
