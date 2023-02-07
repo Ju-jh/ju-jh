@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-this is Jayden I'm in Hanghae99🌱 now 
+🧑‍ this is Jayden 
+I'm in Hanghae99🌱 now 
 
-I'm Node.js(JavaScript) Backend programmer
+💻 I mainly use Node.js(JavaScript)
 
-✨소개✨ https://bit.ly/3DBVdye
-✨블로그✨ https://bit.ly/3Ylhetf
-✨GitHub✨ https://bit.ly/3RqbJY9
+plz visit here!! 👇👇👇👇
+Introduce✨소개✨ https://bit.ly/3DBVdye
+Blog✨블로그✨ https://bit.ly/3Ylhetf
+GitHub✨깃허브✨ https://bit.ly/3RqbJY9
 
 
 <!--
