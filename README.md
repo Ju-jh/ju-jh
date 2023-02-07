@@ -3,7 +3,6 @@
 this is Jayden I'm in Hanghae99🌱 now 
 
 I'm Backend programmer
-I was Block chain bdm 
 
 ✨소개✨ https://bit.ly/3DBVdye
 ✨블로그✨ https://bit.ly/3Ylhetf
