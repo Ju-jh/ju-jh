@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🧑‍ this is Jayden. 
-I'm in Hanghae99🌱 rigth now. 
+I'm in Hanghae99🌱 rigth now
 
 💻 I prefer to use Node.js(JavaScript)
 
@@ -11,7 +11,7 @@ Introduce✨소개✨ https://bit.ly/3DBVdye
 Blog✨블로그✨ https://bit.ly/3Ylhetf  
 GitHub✨깃허브✨ https://bit.ly/3RqbJY9 
 
-Thank you.
+Thank you
 
 <!--
 **jaehunju1996/jaehunju1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
