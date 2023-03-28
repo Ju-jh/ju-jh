@@ -3,8 +3,6 @@
 🧑‍ This is Jayden. 
 I'm in Hanghae99🌱 rigth now
 
-💻 I prefer to use Node.js(JavaScript)
-
 Please visit here 👇
  
 Introduce✨소개✨ https://bit.ly/3DBVdye  
