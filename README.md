@@ -17,7 +17,7 @@
 # Hi there 👋
 
 🧑‍ This is Jayden. 
-I'm in Hanghae99🌱 rigth now
+I'm Full stack developer
 
 Please visit here 👇
  
