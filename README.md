@@ -16,8 +16,8 @@
 
 # Hi there 👋
 
-🧑‍ This is Jayden. 
-I'm Full stack developer
+This is Jayden. 
+I'm **Full stack developer**
 
 Please visit here 👇
  
