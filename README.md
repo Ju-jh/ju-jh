@@ -17,8 +17,6 @@ Thank you😄
 
 ---
 
-![KakaoTalk_20211015_124902345.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89964a33-9d10-4805-9ced-96592ad6b5eb/KakaoTalk_20211015_124902345.jpg)
-
 ### **블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
 
 **새롭게 배우는것과 도전하는것**을 통한 **성장**을 즐깁니다.
