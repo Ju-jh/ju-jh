@@ -11,6 +11,25 @@ GitHub✨깃허브✨ https://bit.ly/3RqbJY9
 
 Thank you😄
 
+# 안녕하세요, 풀스택 개발자 주재훈입니다.
+
+## Introduce
+
+---
+
+![KakaoTalk_20211015_124902345.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89964a33-9d10-4805-9ced-96592ad6b5eb/KakaoTalk_20211015_124902345.jpg)
+
+### **블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
+
+**새롭게 배우는것과 도전하는것**을 통한 **성장**을 즐깁니다.
+****꾸준한 성장을 위해  깃허브 및 기술 블로그를 운영하고 있습니다.
+
+**효율적이고 클린한 코드**로 개발하여 **유지보수성**과 **테스트**하기 좋은 코드를 위해 고민합니다.
+**Restful 한 API 개발과 객체지향** **프로그래밍**, **테스트 코드를 작성하는 습관**을 기르면서 리팩토링 이후의 확장성과 유지보수성을 보장하려 합니다.
+
+**팀원들과** 항상 **소통**하려합니다.
+혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다.
+
 <!--
 **jaehunju1996/jaehunju1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
