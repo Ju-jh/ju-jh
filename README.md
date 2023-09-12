@@ -1,17 +1,3 @@
-### Hi there 👋
-
-🧑‍ This is Jayden. 
-I'm in Hanghae99🌱 rigth now
-
-Please visit here 👇
- 
-Introduce✨소개✨ https://bit.ly/3DBVdye  
-Blog✨블로그✨ https://bit.ly/3Ylhetf  
-GitHub✨깃허브✨ https://bit.ly/3RqbJY9 
-
-Thank you😄
-
----
 
 # 안녕하세요, 풀스택 개발자 주재훈입니다.
 
@@ -25,6 +11,21 @@ Thank you😄
 
 **팀원들과** 항상 **소통**하려합니다.
 혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다.
+
+---
+
+# Hi there 👋
+
+🧑‍ This is Jayden. 
+I'm in Hanghae99🌱 rigth now
+
+Please visit here 👇
+ 
+Introduce✨소개✨ https://bit.ly/3DBVdye  
+Blog✨블로그✨ https://bit.ly/3Ylhetf  
+GitHub✨깃허브✨ https://bit.ly/3RqbJY9 
+
+Thank you😄
 
 <!--
 **jaehunju1996/jaehunju1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
