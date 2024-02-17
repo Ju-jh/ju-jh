@@ -21,7 +21,7 @@ I'm **Full stack developer**
 
 Please visit here 👇
 
-GitHub Blog ✨블로그 ✨(https://jrogrammer.tistory.com/) 
+✨블로그 ✨(https://jrogrammer.tistory.com/) 
 
 Thank you😄
 
