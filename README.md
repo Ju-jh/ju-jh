@@ -25,7 +25,7 @@ I always strive for communication with team members. I believe that developing w
 
 Thank you 😄
 
-#こんにちは、私はNodeフルスタック開発者のJaehunです。
+# こんにちは、私はNodeフルスタック開発者のJaehunです。
 
 私はブロックチェーン業界から開発者に転身しています。
 
