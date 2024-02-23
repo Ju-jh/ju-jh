@@ -1,5 +1,6 @@
 
 # 안녕하세요, Node 풀스택 개발자 주재훈입니다.
+**블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
 
 **블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
 
@@ -12,18 +13,20 @@
 **팀원들과** 항상 **소통**하려합니다.
 혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다..
 
----
+# Hello, I'm Jaehun, a Node full-stack developer.
+I am transitioning from the blockchain industry to become a developer.
 
-# Hi there 👋
+I enjoy growth through learning new things and taking on challenges. To ensure steady growth, I maintain a GitHub profile and a technical blog.
 
-This is Jaehun. 
-I'm **Full stack developer**
+I prioritize efficient and clean code development to ensure maintainability and testability. Focusing on RESTful API development, object-oriented programming, and cultivating the habit of writing test code, I aim to guarantee scalability and maintainability after refactoring.
 
-Please visit here 👇
+I always strive for communication with team members. I believe that developing with sufficient communication with my teammates is essential.
 
-✨블로그 ✨(https://jrogrammer.tistory.com/) 
+Thank you 😄
 
-Thank you😄
+
+✨블로그 ✨(https://jrogrammer.tistory.com/)
+
 
 <!--
 **jaehunju1996/jaehunju1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
