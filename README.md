@@ -12,7 +12,9 @@
 **Restful 한 API 개발과 객체지향** **프로그래밍**, **테스트 코드를 작성하는 습관**을 기르면서 리팩토링 이후의 확장성과 유지보수성을 보장하려 합니다.
 
 **팀원들과** 항상 **소통**하려합니다.
-혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다..
+혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다.
+
+감사합니다. 😄
 
 # Hello, I'm Jaehun, a Node full-stack developer.
 I am transitioning from the **blockchain industry** to become a **developer**.
@@ -23,7 +25,7 @@ I prioritize efficient and clean code development to ensure maintainability and 
 
 I always strive for communication with team members. I believe that developing with sufficient communication with my teammates is essential.
 
-Thank you 😄
+Thank you. 😄
 
 # こんにちは、私はNodeフルスタック開発者のJaehunです。
 
@@ -35,7 +37,7 @@ Thank you 😄
 
 常にチームメンバーとのコミュニケーションを重視しています。 チームメンバーとの十分なコミュニケーションを通じて開発することを信じています。
 
-ありがとうございます 😄
+ありがとうございます。 😄
 
 
 
