@@ -1,5 +1,5 @@
 
-✨✨✨ Please come and visit My Blog !!! 👉 ( https://jrogrammer.tistory.com/ ) ✨✨✨ 
+✨✨✨ Please come and visit my blog !!! 👉 ( https://jrogrammer.tistory.com/ ) ✨✨✨ 
 
 # 안녕하세요, Node 풀스택 개발자 주재훈입니다.
 
