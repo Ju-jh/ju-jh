@@ -1,6 +1,7 @@
 
+✨블로그✨(https://jrogrammer.tistory.com/)
+
 # 안녕하세요, Node 풀스택 개발자 주재훈입니다.
-**블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
 
 **블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
 
@@ -14,7 +15,7 @@
 혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다..
 
 # Hello, I'm Jaehun, a Node full-stack developer.
-I am transitioning from the blockchain industry to become a developer.
+I am transitioning from the **blockchain industry** to become a **developer**.
 
 I enjoy growth through learning new things and taking on challenges. To ensure steady growth, I maintain a GitHub profile and a technical blog.
 
@@ -24,8 +25,19 @@ I always strive for communication with team members. I believe that developing w
 
 Thank you 😄
 
+#こんにちは、私はNodeフルスタック開発者のJaehunです。
 
-✨블로그 ✨(https://jrogrammer.tistory.com/)
+私はブロックチェーン業界から開発者に転身しています。
+
+新しいことを学び、挑戦することで成長するのが好きです。 着実な成長を確保するために、GitHubプロファイルと技術ブログを維持しています。
+
+保守性とテスト可能性を確保するために、効率的でクリーンなコード開発を優先します。 RESTful API開発、オブジェクト指向プログラミング、テストコードの執筆習慣に焦点を当て、リファクタリング後の拡張性と保守性を保証することを目指しています。
+
+常にチームメンバーとのコミュニケーションを重視しています。 チームメンバーとの十分なコミュニケーションを通じて開発することを信じています。
+
+ありがとうございます 😄
+
+
 
 
 <!--
