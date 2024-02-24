@@ -1,7 +1,7 @@
 
 ✨✨✨ Please come and visit my blog !!! 👉 (  https://zrr.kr/ALSM  ) ✨✨✨ 
 
-# 안녕하세요, Node 풀스택 개발자 주재훈입니다.
+# 안녕하세요, 프론트엔드 개발자 주재훈입니다.
 
 **블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
 
@@ -16,7 +16,7 @@
 
 감사합니다. 😄
 
-# Hello, I'm Jaehun, a Node full-stack developer.
+# Hello, I'm Jaehun, a Frontend developer.
 I am transitioning from the **blockchain industry** to become a **developer**.
 
 I enjoy growth through learning new things and taking on challenges. To ensure steady growth, I maintain a GitHub profile and a technical blog.
@@ -27,7 +27,7 @@ I always strive for communication with team members. I believe that developing w
 
 Thank you. 😄
 
-# こんにちは、私はNodeフルスタック開発者のJaehunです。
+# こんにちは、私はフロントエンド開発者のJaehunです。
 
 私はブロックチェーン業界から開発者に転身しています。
 
