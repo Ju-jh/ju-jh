@@ -14,7 +14,7 @@
 **팀원들과** 항상 **소통**하려합니다.
 혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다.
 
-감사합니다.😄
+감사합니다. 😄
 
 # Hello, I'm Jaehun, a Frontend developer.
 I am transitioning from the **blockchain industry** to become a **developer**.
@@ -25,7 +25,7 @@ I prioritize efficient and clean code development to ensure maintainability and 
 
 I always strive for communication with team members. I believe that developing with sufficient communication with my teammates is essential.
 
-Thank you.😄
+Thank you. 😄
 
 # こんにちは、私はフロントエンド開発者のJaehunです。
 
