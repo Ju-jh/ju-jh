@@ -1,38 +1,7 @@
-
-✨✨✨ Please come and visit my blog !!! 👉 (  https://zrr.kr/ALSM  ) ✨✨✨ 
-
-# 안녕하세요, 프론트엔드 개발자 주재훈입니다.
-
-**블록체인 업계 종사자**에서 **개발자**로 커리어 전환을 꿈꾸는 주재훈입니다.
-
-**새롭게 배우는것과 도전하는것**을 통한 **성장**을 즐깁니다.
-꾸준한 성장을 위해  깃허브 및 기술 블로그를 운영하고 있습니다.
-
-**효율적이고 클린한 코드**로 개발하여 **유지보수성**과 **테스트**하기 좋은 코드를 위해 고민합니다.
-**Restful 한 API 개발과 객체지향** **프로그래밍**, **테스트 코드를 작성하는 습관**을 기르면서 리팩토링 이후의 확장성과 유지보수성을 보장하려 합니다.
-
-**팀원들과** 항상 **소통**하려합니다.
-혼자서 하는것이 아닌 팀**원들과 충분한 소통**으로 **개발하는것을 지향**합니다.
-
-감사합니다.😄
-
-# Hello, I'm Jaehun, a Frontend developer.
-I am transitioning from the **blockchain industry** to become a **developer**.
-
-I enjoy growth through learning new things and taking on challenges. To ensure steady growth, I maintain a GitHub profile and a technical blog.
-
-I prioritize efficient and clean code development to ensure maintainability and testability. Focusing on RESTful API development, object-oriented programming, and cultivating the habit of writing test code, I aim to guarantee scalability and maintainability after refactoring.
-
-I always strive for communication with team members. I believe that developing with sufficient communication with my teammates is essential.
-
-Thank you.😄
-
-
-
-
+<h3 align="center"> Hi there 👋 </h3>
 
 <!--
-**jaehunju1996/jaehunju1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ysjang0926/ysjang0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -45,3 +14,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  현재 프론트엔드 개발자이지만, 
+  <br>
+  백엔드 개발과 데이터베이스, 인프라 구축에 관심이 많습니다. 
+</p>
+<p align="center">
+  제가 유일하게 가지고 있는 신념은, 꾸준함이 밥🍚 먹여준다 입니다.
+</p>
+
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/react-00A8E1?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
+  <img src="https://img.shields.io/badge/figma-EF2D5E?style=for-the-badge&logo=figma&logoColor=black">
+  <img src="https://img.shields.io/badge/prettier-FF4F8B?style=for-the-badge&logo=prettier&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/redux-66459B?style=for-the-badge&logo=redux&logoColor=white">
+
+  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+</p>
+
+<h3 align="center">Blog</h3>
+<p align="center">
+	https://zrr.kr/ALSM
+</p>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=Ju-jh&theme=vue&show_icons=true"/></a>
+</p>
+
+
+
+<h3 align="center">My Hits</h3>
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJu-jh%2Fhit-counter&count_bg=%23262D76&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
