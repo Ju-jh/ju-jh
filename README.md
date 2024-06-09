@@ -21,12 +21,12 @@ Here are some ideas to get you started:
   🧑🏻‍💻백엔드 개발과 🗃️데이터베이스, 🌐인프라 구축, 🤖AI에 관심이 많습니다. 
 </p>
 <p align="center">
-  제가 유일하게 가지고 있는 신념은, '꾸준함이 🍚밥 먹여준다' 입니다.
+  저의 신념은, '꾸준함이 🍚밥 먹여준다' 입니다.
 </p>
 
 <h3 align="center">🛠️ Tech Stacks 🛠️</h3>
-<p align="center">
-<details align="center">
+<div >
+	<details align="center">
 	<summary>
 		자신있는 Tech Stack
 	</summary>
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 	<br>
 	<br>
 </details>
-</p>
+</div>
 
 <h3 align="center" >✨ Blog ✨</h3>
 <p align="center">
