@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <p align="center">
   현재 프론트엔드 개발자이지만, 
   <br>
-  백엔드 개발과 데이터베이스, 인프라 구축에 관심이 많습니다. 
+  🧑🏻‍💻백엔드 개발과 🗃️데이터베이스, 🌐인프라 구축에 관심이 많습니다. 
 </p>
 <p align="center">
-  제가 유일하게 가지고 있는 신념은, '꾸준함이 밥🍚 먹여준다' 입니다.
+  제가 유일하게 가지고 있는 신념은, '꾸준함이 🍚밥 먹여준다' 입니다.
 </p>
 
 <h3 align="center">🛠️ Tech Stacks 🛠️</h3>
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 	👉🏻 https://zrr.kr/ALSM
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=Ju-jh&theme=tokyonight&show_icons=true"/></a>
 </p>
