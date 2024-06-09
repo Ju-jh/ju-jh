@@ -50,10 +50,9 @@ Here are some ideas to get you started:
 	👉🏻 https://zrr.kr/ALSM
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
-
 <h3 align="center">GitHub Stats</h3>
 <p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=Ju-jh&theme=tokyonight&show_icons=true"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
