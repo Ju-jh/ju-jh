@@ -74,7 +74,7 @@
 </details>
 </div>
 
-<h3 align="center" >✨ Blog ✨</h3>
+<h3 align="center" >✨ My Blog ✨</h3>
 
 <p align="center">
 	👉🏻 https://zrr.kr/ALSM
