@@ -80,6 +80,12 @@
 	👉🏻 https://zrr.kr/ALSM
 </p>
 
+<h3 align="center" >✨ Nail Design Platform (네디플) ✨</h3>
+
+<p align="center">
+	👉🏻 https://www.naildp.com
+</p>
+
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
 <p align="center"> 
